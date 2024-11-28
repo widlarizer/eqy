@@ -1,6 +1,6 @@
 
 DESTDIR =
-PREFIX = /usr/local
+PREFIX ?= /usr/local
 PROGRAM_PREFIX =
 YOSYS_CFGFLAGS =
 
